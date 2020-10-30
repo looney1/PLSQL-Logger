@@ -1,0 +1,8 @@
+.sonarlint
+sonarlint.json
+
+# IDE files
+.idea
+**/*.iml
+
+.gradle
